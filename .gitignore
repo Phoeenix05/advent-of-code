@@ -1,7 +1,5 @@
 # system specific(s)
 .DS_Store
 
-
-# Added by cargo
-
-/target
+# no idea what this is
+.ropeproject/
